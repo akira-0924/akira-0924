@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> akira-0924 GitHub
 
 - 📫 How to reach me: [Qiita](https://qiita.com/akira__0924)
 <br>
